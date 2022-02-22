@@ -1,0 +1,3 @@
+include ':insetter'
+include ':app'
+rootProject.name = "fitsSystemWindowsDemo"
